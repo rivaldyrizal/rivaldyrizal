@@ -2,7 +2,7 @@
 <p>Experienced in Software Engineering with more than 2 years of experience in Software Development. Enthusiastic in Programming and eager to contribute to reaching the company goals through hard work and keep learning new things. That's the reason I am a specialist in Backend Software Development.
 
 Really happy to write clean, maintainable, and readable code.</p>
-<p><a href="https://www.linkedin.com/in/rivaldyrizal/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/rivaldyrizal/" alt="LinkedIn Badge"></a> </p>
+<p><a href="https://www.linkedin.com/in/rivaldyrizal/"><img src="https://img.shields.io/badge/-@rivaldyrizal-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/rivaldyrizal/" alt="LinkedIn Badge"></a> </p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
